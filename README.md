@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Karamat Subhani
 
-I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 years** of hands‑on experience designing, building, and delivering **high‑performance cross‑platform mobile applications** for iOS and Android. With a track record of **50+ successful projects**, I specialize in leveraging **Flutter**, **Dart**, **Firebase**, and modern state management patterns (BLoC, Riverpod,Provider,Getx) to craft **scalable**, **maintainable**, and **user‑friendly** apps that drive real business value.
+I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 years** of hands‑on experience designing, building, and delivering **high‑performance cross‑platform mobile applications** for iOS and Android. With a track record of **130+ successful projects**, I specialize in leveraging **Flutter**, **Dart**, **Firebase**, and modern state management patterns (BLoC, Riverpod,Provider,Getx) to craft **scalable**, **maintainable**, and **user‑friendly** apps that drive real business value.
 
 ---
 
