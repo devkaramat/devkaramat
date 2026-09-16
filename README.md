@@ -8,7 +8,7 @@ I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 yea
 
 1. **Proven Expertise**  
    - 8+ years in **mobile app development** (iOS, Android, cross‑platform).  
-   - Delivered 50+ apps spanning **e‑commerce**, **fintech**, **IoT**, **healthcare**, **education**, **logistics**, and **attendance tracking**.  
+   - Delivered 130+ apps spanning **e‑commerce**, **fintech**, **IoT**, **healthcare**, **education**, **logistics**, and **attendance tracking**.  
    - Deep knowledge of **Flutter SDK**, **Dart**, **Java**, **Kotlin**, and **Swift**.
 
 2. **End‑to‑End Solutions**  
